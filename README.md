@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - TipApp
 
-**Name of your app** is a tip calculator application for iOS.
+TippApp is a tip calculator application for iOS.
 
 Submitted by: **Your Name Here**
 
